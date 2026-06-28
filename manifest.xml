@@ -332,7 +332,7 @@
 	<File name="Data/Uniques/tincture.lua" part="program" sha1="ea139a81c2f1f41b223bbe6bc280df93a3e9a1be" />
 	<File name="Data/Uniques/wand.lua" part="program" sha1="7ada72187441e5091b874de800904894fbb8533f" />
 	<File name="GameVersions.lua" part="program" sha1="2edbb39098c0d0236986f480ac92094abffce810" />
-	<File name="Launch.lua" part="program" sha1="4e51150ef1d52d44e845559eb61d292ab1d544cb" />
+	<File name="Launch.lua" part="program" sha1="67d45617d208ab23eb53fe24e4ee90a47aa4ef8e" />
 	<File name="Modules/Build.lua" part="program" sha1="5a468d3f67772a7a1c0bc60cb1b3a89e39b7fab4" />
 	<File name="Modules/BuildDisplayStats.lua" part="program" sha1="3e74499cf1cfa151f4c29159c5d054841549ef55" />
 	<File name="Modules/BuildList.lua" part="program" sha1="3cea643c66babecfafa934cce573cbe6f64ffb19" />
@@ -520,7 +520,6 @@
 	<File name="SimpleGraphic/Fonts/Liberation Sans.tgf" part="runtime" sha1="cfdeeb29ec47bf043740e20e4086f189292315e0" />
 	<File name="socket.dll" part="runtime" runtime="win32" sha1="4b83cf9272024b97bed7c92f690bd6ffb911b66a" />
 	<File name="socket.so" part="runtime" runtime="linux" sha1="cd1628fc6fc82a1a28ca6588f1fcc99d826fdb6b" />
-	<File name="Update" part="runtime" runtime="linux" sha1="d8db25f6b6058c55cdfc4c6130c7a76a3abff1c4" />
 	<File name="vcruntime140.dll" part="runtime" runtime="win32" sha1="3d2998a27d164dd7cc3bc7d3eca08acf89a0ee42" />
 	<File name="vcruntime140_1.dll" part="runtime" runtime="win32" sha1="a0330279d3d0d47f19ed984726e25260b547a228" />
 	<File name="zlib1.dll" part="runtime" runtime="win32" sha1="8e50f9c33dc016409faccc01a7a94053aa3b00b1" />
