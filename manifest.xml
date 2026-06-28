@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <PoBVersion>
 	<Version number="2.65.0" />
-	<Source part="default" url="https://raw.githubusercontent.com/PathOfBuildingCommunity/PathOfBuilding/{branch}/" />
-	<Source part="runtime" platform="win32" url="https://raw.githubusercontent.com/PathOfBuildingCommunity/PathOfBuilding/{branch}/runtime/" />
-	<Source part="runtime" platform="linux" url="https://raw.githubusercontent.com/PathOfBuildingCommunity/PathOfBuilding/{branch}/runtime/" />
-	<Source part="program" url="https://raw.githubusercontent.com/PathOfBuildingCommunity/PathOfBuilding/{branch}/src/" />
-	<Source part="tree" url="https://raw.githubusercontent.com/PathOfBuildingCommunity/PathOfBuilding/{branch}/src/" />
+	<Source part="default" url="https://raw.githubusercontent.com/ejrich/PathOfBuilding/{branch}/" />
+	<Source part="runtime" platform="win32" url="https://raw.githubusercontent.com/ejrich/PathOfBuilding/{branch}/runtime/" />
+	<Source part="runtime" platform="linux" url="https://raw.githubusercontent.com/ejrich/PathOfBuilding/{branch}/runtime/" />
+	<Source part="program" url="https://raw.githubusercontent.com/ejrich/PathOfBuilding/{branch}/src/" />
+	<Source part="tree" url="https://raw.githubusercontent.com/ejrich/PathOfBuilding/{branch}/src/" />
 	<File name="changelog.txt" part="default" sha1="982dc01744d4800a35d830e5e49e0761b9ef4199" />
 	<File name="help.txt" part="default" sha1="b1287f429e40ffdb96a2aff30b20adfa1540cf66" />
 	<File name="LICENSE.md" part="default" sha1="be578b61d2b3381db4135c02101b2b0fc34fdeac" />
