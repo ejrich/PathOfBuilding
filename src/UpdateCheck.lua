@@ -182,6 +182,7 @@ end
 local updateFiles = { }
 for name, data in pairs(remoteFiles) do
 	data.name = name
+	-- @Hack to not overwrite the changes to these files from the main repo
     if name ~= "UpdateCheck.lua" and name ~= "Launch.lua" then
 		local sanitizedName = name:gsub("{space}", " ")
 		if (not localFiles[name] or localFiles[name].sha1 ~= data.sha1) and (not localFiles[sanitizedName] or localFiles[sanitizedName].sha1 ~= data.sha1) then
