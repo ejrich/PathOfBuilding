@@ -363,7 +363,7 @@
 	<File name="Modules/StatDescriber.lua" part="program" sha1="230d9ec68cc0f068e2bf73c4dc1c329f30a0099a" />
 	<File name="Modules/ToastNotification.lua" part="program" sha1="8b61bbcc87503bdc56c6b5b5306baa862748e90d" />
 	<File name="UpdateApply.lua" part="program" sha1="fd03dbd5b750848ec7d9d1a8bcf8aff8b9ff6e89" />
-	<File name="UpdateCheck.lua" part="program" sha1="d465abb7a6bbeac12e153583054c5c5db6d812ec" />
+	<File name="UpdateCheck.lua" part="program" sha1="232e9316b285fa766fdb4883ac973422c12f6d56" />
 	<File name="abseil_dll.dll" part="runtime" runtime="win32" sha1="23459876cffb2433ad92eb18d735ffbb7331e347" />
 	<File name="concrt140.dll" part="runtime" runtime="win32" sha1="1ce87fac4c22aae82a81ddb26952c074b744e78d" />
 	<File name="d3dcompiler_47.dll" part="runtime" runtime="win32" sha1="27a4eff95e7f4a359718fda7138a528147969b27" />
@@ -394,7 +394,7 @@
 	<File name="msvcp140_2.dll" part="runtime" runtime="win32" sha1="e48159bb2127ec812ff679f6fabc41141009f26a" />
 	<File name="msvcp140_atomic_wait.dll" part="runtime" runtime="win32" sha1="a85a6a4de6656e5969fa4ab15f2230dfe2839e75" />
 	<File name="msvcp140_codecvt_ids.dll" part="runtime" runtime="win32" sha1="91b19dd0db24a5cbd944eca9c67fad3b53f9c154" />
-	<File name="Path{space}of{space}Building" part="runtime" runtime="linux" sha1="ee7cb7f0cfcecf9c88e6d1f039a14b3d43034359" />
+	<File name="Path{space}of{space}Building" part="runtime" runtime="linux" sha1="68227222d09d8deb04b7d77c97da6cbffa61235a" />
 	<File name="Path{space}of{space}Building.exe" part="runtime" runtime="win32" sha1="8dcd46aac0b70d0a4d5eac5c7244302c9b805f85" />
 	<File name="re2.dll" part="runtime" runtime="win32" sha1="6111b8760bc7fb810d4dd9eb0aeb57a00e57806f" />
 	<File name="SimpleGraphic.dll" part="runtime" runtime="win32" sha1="9451847ea437fbfbd57b7853024ec1a0e9dc44ae" />
